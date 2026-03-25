@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-const uri = "mongodb+srv://edureach_admin:EduReach123@cluster0.vh6zjcs.mongodb.net/test?authSource=admin&appName=Cluster0";
+const uri = "your MongoDB uri";
 
 async function dropIndex() {
   try {
